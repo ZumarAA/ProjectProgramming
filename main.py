@@ -1,0 +1,1 @@
+import tkinter as tkroot = tk.Tk()root.title("MEP Tracker")root.geometry("1000x1000")root.mainloop()welcomeLabel = Label(root, text=" Welcome to my login")#label1 = Label(root, text=" Welcome to my login")
